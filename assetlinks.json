@@ -1,0 +1,26 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"de.tui.meinetui.dev",
+         "sha256_cert_fingerprints":[
+            "B6:28:57:77:63:6C:73:2C:78:5F:0D:3F:F1:B9:64:1B:8B:E7:B2:75:F3:4E:96:07:14:6E:33:25:9C:46:A7:21"
+         ]
+      }
+   },
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"de.tui.meinetui",
+         "sha256_cert_fingerprints":[
+            "7F:C4:B6:91:6C:06:0F:D3:FA:D1:85:4A:16:AF:5D:3A:0B:EF:04:9F:51:4B:1E:B5:8C:01:82:A8:7A:A0:60:1C"
+         ]
+      }
+   }
+]
